@@ -1,0 +1,4 @@
+{
+  "name": "GitHub Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest"
+}
